@@ -43,8 +43,6 @@ Tutorial: https://www.youtube.com/watch?v=u6gSSpfsoOQ
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-
 - npm or yarn
   ```sh
   npm install npm@latest -g # or npm install --global yarn
